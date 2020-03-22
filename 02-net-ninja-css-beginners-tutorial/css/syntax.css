@@ -5,3 +5,7 @@ span[class] {
 div[id] {
     background: grey;
 }
+
+a[title="Search engine"] {
+    color: red;
+}
