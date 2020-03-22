@@ -1,1 +1,11 @@
 /* TARGETING ELEMENTS / TAGS */
+
+h2 {
+    font-size: 24px;
+}
+
+/* CSS is read from top to bottom and can override what is above*/
+#content-header {
+    font-size: 18px;
+    color: red;
+}
