@@ -9,3 +9,8 @@ div {
 p {
     color: green;
 }
+
+a {
+    text-decoration: underline;
+    color: yellow;
+}
