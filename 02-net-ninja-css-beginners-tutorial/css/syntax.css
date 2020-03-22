@@ -6,6 +6,6 @@ div[id] {
     background: grey;
 }
 
-a[title="Search engine"] {
+a[href$="pdf"] {
     color: red;
 }
