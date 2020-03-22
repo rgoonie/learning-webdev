@@ -1,3 +1,7 @@
-span[class]{
+span[class] {
     color: purple;
+}
+
+div[id] {
+    background: grey;
 }
