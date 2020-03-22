@@ -6,6 +6,6 @@ div[id] {
     background: grey;
 }
 
-a[href$="pdf"] {
+a[href^="http"] {
     color: red;
 }
