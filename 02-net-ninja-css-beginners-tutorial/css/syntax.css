@@ -1,25 +1,4 @@
-p {
-    color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
-}
-
-span {
-    color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
-}
-
-a {
-    color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
-}
-
-li {
+p, span, a, li{
     color: red;
     font-size: 14px;
     font-weight: bold;
