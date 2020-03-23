@@ -17,21 +17,21 @@
 }
 
 .groove{
-    border: 4px blue groove;
+    border: 14px blue groove;
 }
 
 .inset{
-    border: 4px blue inset;
+    border: 14px blue inset;
 }
 
 .outset{
-    border: 4px blue outset;
+    border: 14px blue outset;
 }
 
 .ridge{
-    border: 4px blue ridge;
+    border: 14px blue ridge;
 }
 
 .solid{
-    border: 4px blue solid;
+    border: 1px blue solid;
 }
