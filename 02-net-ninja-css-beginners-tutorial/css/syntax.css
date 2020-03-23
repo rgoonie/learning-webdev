@@ -1,0 +1,7 @@
+#header p {
+    text-transform: capitalize;
+}
+
+body > p {
+    text-transform: uppercase;
+}
