@@ -11,4 +11,6 @@
     text-align: center;
     border-radius: 4px;
     background: #aadddd;
+
+    background: linear-gradient(top, #aadddd, 0%, #77aaaa, 100%);
 }
