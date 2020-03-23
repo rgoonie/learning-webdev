@@ -13,25 +13,25 @@
 }
 
 .double{
-    border: 1px blue double;
+    border: 4px blue double;
 }
 
 .groove{
-    border: 1px blue groove;
+    border: 4px blue groove;
 }
 
 .inset{
-    border: 1px blue inset;
+    border: 4px blue inset;
 }
 
 .outset{
-    border: 1px blue outset;
+    border: 4px blue outset;
 }
 
 .ridge{
-    border: 1px blue ridge;
+    border: 4px blue ridge;
 }
 
 .solid{
-    border: 1px blue solid;
+    border: 4px blue solid;
 }
