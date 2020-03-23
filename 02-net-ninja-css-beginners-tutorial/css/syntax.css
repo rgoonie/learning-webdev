@@ -1,6 +1,5 @@
 .box{
-    margin: 30px auto;
-    padding: 30px;
+    margin: 30px 50%;
     border: 1px solid #000;
-    width: 300px;
+    width: 50%;
 }
