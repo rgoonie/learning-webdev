@@ -2,9 +2,7 @@
     padding: 20px;
     margin: 20px;
     float: left;
-    border-top-width: 10px;
-    border-top-style: solid;
-    border-top-color: blue;
+    border-top: 10px solid blue;
 }
 
 .dashed{
