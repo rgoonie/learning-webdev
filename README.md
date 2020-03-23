@@ -12,3 +12,4 @@ Showing my progression of learning web development via various resources.
 * HTML
     * https://docs.webplatform.org/wiki/html
     * http://www.html5rocks.com/en/
+    * https://www.w3resource.com/html/HTML-block-level-and-inline-elements.php
