@@ -2,6 +2,9 @@
     padding: 20px;
     margin: 20px;
     float: left;
+    border-top-width: 10px;
+    border-top-style: solid;
+    border-top-color: blue;
 }
 
 .dashed{
@@ -33,5 +36,5 @@
 }
 
 .solid{
-    
+
 }
