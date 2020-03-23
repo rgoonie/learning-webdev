@@ -1,7 +1,3 @@
-article {
-    text-decoration: overline;
-}
-
 a {
-    text-decoration: inherit;
+    text-decoration: line-through;
 }
