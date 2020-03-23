@@ -1,3 +1,7 @@
 article p:first-child {
     font-weight: bold;
 }
+
+article p:last-child{
+    color: red;
+}
