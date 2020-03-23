@@ -3,5 +3,6 @@ h1 {
 }
 
 p {
-    font-weight: lighter;
+    font-weight: normal;
+    font-family: "Yu Gothic";
 }
