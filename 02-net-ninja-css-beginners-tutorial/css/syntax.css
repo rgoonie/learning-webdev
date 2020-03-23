@@ -12,6 +12,7 @@
 .percentage-width{
     width: 70%;
     height: 50px;
+    border-radius: 5px 10px 20px 40px;
 }
 
 .inline-block{
