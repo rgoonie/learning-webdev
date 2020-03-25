@@ -2,7 +2,7 @@ function getAverage(a, b){
 
     var average = (a+b)/2;
     console.log(average);
-
+    return average;
 }
 
-getAverage(10, 5);
+var result = getAverage(10, 5);
