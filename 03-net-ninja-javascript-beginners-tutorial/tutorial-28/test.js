@@ -7,3 +7,16 @@ myCar.drive = function() {
 };
 
 myCar.drive();
+
+
+
+var myCarTwo = {
+
+    maxSpeed: 70,
+    driver: "The Driver",
+
+    drive: function(){
+        console.log("The car is now drving");
+    }
+
+};
