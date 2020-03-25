@@ -1,6 +1,6 @@
 var links = document.getElementsByTagName("a");
 
-for(i = 1; i < links.length; i++){
+for(i = 1; i <= links.length; i++){
     console.log("this is link number " + i);
 }
 
