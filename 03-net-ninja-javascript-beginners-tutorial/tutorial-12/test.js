@@ -1,7 +1,14 @@
 var youLikeMeat = true;
+var myNum = 8;
 
-if( youLikeMeat ){
+if( myNum == 10 ){
 
-    document.write("Here is the meaty menu...");
+    document.write("myNum is equal to 10");
+
+}
+
+else{
+
+    document.write("myNum is not equal to 10");
 
 }
