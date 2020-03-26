@@ -2,6 +2,7 @@
     I don't think this works... Keep getting errors...
 */
 
+/*
 var Car = funciton(maxSpeed, driver) {
 
     this.maxSpeed = maxSpeed,
@@ -16,3 +17,4 @@ var Car = funciton(maxSpeed, driver) {
 
 var myCar = new Car(20, "Rajeev");
 myCar.logDriver();
+*/
