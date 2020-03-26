@@ -12,12 +12,12 @@ class App extends React.Component {
       },
       {
         id: 2,
-        title: "take out the trash",
+        title: "buy dinner",
         completed: false
       },
       {
         id: 3,
-        title: "take out the trash",
+        title: "wash dishes",
         completed: false
       }
     ]
