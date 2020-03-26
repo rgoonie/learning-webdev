@@ -57,8 +57,9 @@ img {
     height: 140px;
 }
 
-.service:after{
-    content:"";
-    display: block;
+.content {
+    padding: 10px;
+    background: #ccc;
     clear: both;
 }
+
