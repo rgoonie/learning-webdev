@@ -7,6 +7,7 @@ Showing my progression of learning web development via various resources.
 * The Net Ninja (YouTube)
     * HTML Tutorials For Beginners (https://www.youtube.com/playlist?list=PL4cUxeGkcC9ibZ2TSBaGGNrgh4ZgYE6Cc)
     * CSS Tutorials For Beginners (https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
+    * JavaScript for Beginners (https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
 ## Helpful Resources:
 * HTML
