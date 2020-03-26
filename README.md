@@ -9,6 +9,9 @@ Showing my progression of learning web development via various resources.
     * CSS Tutorials For Beginners (https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQeDH6xYhmO-db2mhoTSrT)
     * JavaScript for Beginners (https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 
+* Traversy Media (YouTube)
+    * React JS Crash Course - 2019 Edition (https://www.youtube.com/watch?v=sBws8MSXN7A&list=WL&index=113&t=27s)
+
 ## Helpful Resources:
 * HTML
     * https://docs.webplatform.org/wiki/html
