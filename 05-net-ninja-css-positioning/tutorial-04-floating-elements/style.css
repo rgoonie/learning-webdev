@@ -28,6 +28,7 @@ img {
 }
 .red {
     background: red;
+    float: left;
 }
 
 .green {
