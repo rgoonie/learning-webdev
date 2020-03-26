@@ -41,3 +41,9 @@ img {
     width: 100px;
 }
 */
+
+.service h2, .service p {
+    color: #999;
+    margin: 10px 0;
+    text-align: center;
+}
