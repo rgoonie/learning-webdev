@@ -78,3 +78,9 @@ section, aside {
     background: #f2f2f2;
 }
 
+.columns:after {
+    display: block;
+    content: "";
+    clear: both;
+}
+
