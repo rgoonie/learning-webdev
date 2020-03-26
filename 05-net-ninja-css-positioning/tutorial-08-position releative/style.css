@@ -68,6 +68,10 @@ img {
     background: #ccc;
     clear: both;
     margin-top: 20px 1%;
+
+    position: relative;
+    left: 50px;
+    top: 50px;
 }
 
 .content p{
