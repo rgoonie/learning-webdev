@@ -70,3 +70,11 @@ img {
     margin-top: 20px 1%;
 }
 
+section, aside {
+    float: left;
+    width: 46%;
+    padding: 1%;
+    margin: 1%;
+    background: #f2f2f2;
+}
+
